@@ -7,9 +7,9 @@ public class Error {
 
 
         // When Compiler finds something wrong with our program it throws, syntax error.
-        int a = 5       // No semicolon, Syntax Error
-        System.out.println(a);
-        d = 4;          // Variable not declared, Syntax Error
+        //int a = 5       // No semicolon, Syntax Error
+        //System.out.println(a);
+        //d = 4;          // Variable not declared, Syntax Error
 
         /*
          A logical error or a bug occurs when a program compiles and round but does the wrong thing.
