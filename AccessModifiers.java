@@ -24,6 +24,8 @@ public class AccessModifiers {
         System.out.println(c.x);
         System.out.println(c.y);
         System.out.println(c.z);
-        // System.out.println(c.a);         --> Throws an Error
+
+//        --> Throws an Error
+//         System.out.println(c.a);
     }
 }

@@ -10,6 +10,7 @@ class Phone{
 
 }
 class SmartPhone extends Phone{
+    @Override
     public void on(){
         System.out.println("Turning ON SmartPhone!");
     }

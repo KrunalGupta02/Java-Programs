@@ -37,5 +37,8 @@ public class Abstract_Class {
 //         Parent p = new Parent();     --- error ( Cannot make object of Abstract Class)
          Child c = new Child();
 //         Child1 c1 = new Child1();    --- error ( Cannot make object of Abstract Class)
+
+        c.greet();
+        c.greet2();
     }
 }

@@ -16,7 +16,7 @@ public class ForEachLoop {
         // For each loop is enhanced version of for loop
         // It travels each element of the data structure one by one
         // It increases the readability of the code
-        //Note that you can not skip any element in for loop and
+        //Note that you can not skip any element in for loop, and
         // it is also not possible to traverse elements in reverse order with the help of for each loop.
 
         /*Syntax:-

@@ -11,7 +11,7 @@ class A{
     }
 }
 class B extends A{
-    @Override           // This is nothing but the just the indication that Method Overriding is work fine or not.
+    @Override           // This is nothing but just the indication that Method Overriding is work fine or not.
     public void meth2(){
         System.out.println("I am method 2 of Class B");
     }
