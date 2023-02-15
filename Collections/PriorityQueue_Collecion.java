@@ -7,7 +7,7 @@ import java.util.Queue;
 public class PriorityQueue_Collecion {
     public static void main(String[] args) {
 
-//        Queue<Integer> pq = new PriorityQueue<>();
+//        Queue<Integer> pq = new PriorityQueue<>();          // This will produce in random order
         Queue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
 
         pq.offer(40);
