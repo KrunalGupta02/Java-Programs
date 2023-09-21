@@ -13,7 +13,7 @@ public class Arraylist {
 //        size = n
 //                n + n/2 + 1
 
-        ArrayList<Integer> list = new ArrayList();
+        ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
         list.add(3);
